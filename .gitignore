@@ -1,0 +1,19 @@
+# Data and results never belong in this repository
+*.fcs
+*.wsp
+*.acs
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.gz
+*.rds
+*.RData
+*.parquet
+*.pdf
+*.svg
+*.png
+*.zip
+.Rhistory
+.DS_Store
+__pycache__/
